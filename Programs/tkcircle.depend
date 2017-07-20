@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479365940 source:d:\opengl\tk\tkcircle\main.cpp
+	<GL/freeglut.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<list>
+	<algorithm>
+
